@@ -1,0 +1,20 @@
+{
+  "name": "backend_nodejs_prisma_todoliste",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.6.0",
+    "bson-objectid": "^2.0.4",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "prisma": "^5.6.0"
+  }
+}
